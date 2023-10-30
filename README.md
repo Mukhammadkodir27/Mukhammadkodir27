@@ -1,4 +1,4 @@
-![logo](https://github.com/Mukhammadkodir27/Mukhammadkodir27/blob/main/Capture.PNG)
+<!-- ![logo](https://github.com/Mukhammadkodir27/Mukhammadkodir27/blob/main/Capture.PNG) -->
 <h1 align="center">Hi 👋, I'm Mukhammadkodir Abdusalomov</h1>
 <h3 align="center">A passionate Python Developer</h3>
 
