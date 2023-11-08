@@ -21,3 +21,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukhammadkodir27&show_icons=true&locale=en" alt="mukhammadkodir27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadkodir27&" alt="mukhammadkodir27" /></p>
+
+
+
+
+
+[Mukhammadkodir_Abdusalomov_CV.pdf](https://github.com/Mukhammadkodir27/Mukhammadkodir27/files/13302383/Mukhammadkodir_Abdusalomov_CV.pdf)
+
+
