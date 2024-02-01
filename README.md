@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mukhammadkodir Abdusalomov</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukhammadkodir27&label=Profile%20views&color=0e75b6&style=flat" alt="mukhammadkodir27" /> </p>
 
