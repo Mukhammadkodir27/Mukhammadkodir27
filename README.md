@@ -26,6 +26,6 @@
 
 
 
-[Mukhammadkodir_Abdusalomov_CV.pdf](https://github.com/Mukhammadkodir27/Mukhammadkodir27/files/13302383/Mukhammadkodir_Abdusalomov_CV.pdf)
+[CV.pdf](https://github.com/Mukhammadkodir27/Mukhammadkodir27/Mukhammadkodir_Abdusalomov.pdf)
 
 
