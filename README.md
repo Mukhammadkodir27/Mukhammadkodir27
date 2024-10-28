@@ -19,20 +19,11 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/> 
   </a> 
-  <a href="https://docs.microsoft.com/en-us/office/vba/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Vba-logo.png" alt="vba" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_office_logo.svg" alt="ms office" width="40" height="40"/> 
-  </a> 
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/> 
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
@@ -98,6 +89,6 @@
 
 
 
-[Mukhammadkodir_Abdusalomov_Resume.pdf](https://github.com/Mukhammadkodir27/Mukhammadkodir27/blob/main/Mukhammadkodir_Abdusalomov.pdf)
+<!-- [Mukhammadkodir_Abdusalomov_Resume.pdf](https://github.com/Mukhammadkodir27/Mukhammadkodir27/blob/main/Mukhammadkodir_Abdusalomov.pdf) -->
 
 
