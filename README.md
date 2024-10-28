@@ -12,7 +12,6 @@
         Eager to continually learn and grow within the tech landscape, characterized by a razor-sharp analytical mindset and a collaborative spirit.
     </p>
 </div>
->
 
 <!-- <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> -->
 
