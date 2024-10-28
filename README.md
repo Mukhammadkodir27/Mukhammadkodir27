@@ -1,7 +1,8 @@
 <!-- ![logo](https://github.com/Mukhammadkodir27/Mukhammadkodir27/blob/main/Capture.PNG) -->
 <h1 align="center">Hi 👋, I'm Mukhammadkodir Abdusalomov</h1>
 <h3 align="center">Software Engineer & Data Scientist</h3>
-<h5 align="left"> Studying at University of Warsaw, Data Driven</h5>
+<h5 align="left"> Computer Science graduate from the University of Łódź, currently pursuing a Master’s in Data Science and Business Analytics at Poland’s top-ranked university. Possesses a wealth of experience across various industries, blending technical proficiency in Python, R, VBA, and SQL with a strong understanding of business dynamics. Specialized in automation development, with a proven track record of designing solutions that optimize processes and enhance operational efficiency.
+Engaged in both academic and personal projects focused on AI and machine learning, demonstrating a solid grasp of theoretical and practical aspects of algorithms and data structures. Known for exceptional problem-solving abilities and excellent communication skills, with a history of tackling complex challenges and delivering impactful results. Eager to continually learn and grow within the tech landscape, characterized by a razor-sharp analytical mindset and a collaborative spirit.</h5>
 
 <!-- <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> -->
 
