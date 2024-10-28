@@ -1,8 +1,18 @@
 <!-- ![logo](https://github.com/Mukhammadkodir27/Mukhammadkodir27/blob/main/Capture.PNG) -->
 <h1 align="center">Hi 👋, I'm Mukhammadkodir Abdusalomov</h1>
 <h3 align="center">Software Engineer & Data Scientist</h3>
-<h5 align="left"> Computer Science graduate from the University of Łódź, currently pursuing a Master’s in Data Science and Business Analytics at Poland’s top-ranked university. Possesses a wealth of experience across various industries, blending technical proficiency in Python, R, VBA, and SQL with a strong understanding of business dynamics. Specialized in automation development, with a proven track record of designing solutions that optimize processes and enhance operational efficiency.
-Engaged in both academic and personal projects focused on AI and machine learning, demonstrating a solid grasp of theoretical and practical aspects of algorithms and data structures. Known for exceptional problem-solving abilities and excellent communication skills, with a history of tackling complex challenges and delivering impactful results. Eager to continually learn and grow within the tech landscape, characterized by a razor-sharp analytical mindset and a collaborative spirit.</h5>
+<div style="border: 1px solid #4CAF50; border-radius: 8px; padding: 20px; background-color: #f9f9f9; font-family: Arial, sans-serif;">
+    <h5 style="color: #4CAF50; text-align: left; font-weight: bold;">Profile Summary</h5>
+    <p style="text-align: left; line-height: 1.6;">
+        Computer Science graduate from the University of Łódź, currently pursuing a Master’s in Data Science and Business Analytics at Poland’s top-ranked university. Possesses a wealth of experience across various industries, blending technical proficiency in <strong>Python</strong>, <strong>R</strong>, <strong>VBA</strong>, and <strong>SQL</strong> with a strong understanding of business dynamics. 
+        Specialized in automation development, with a proven track record of designing solutions that optimize processes and enhance operational efficiency.
+    </p>
+    <p style="text-align: left; line-height: 1.6;">
+        Engaged in both academic and personal projects focused on <strong>AI</strong> and <strong>machine learning</strong>, demonstrating a solid grasp of theoretical and practical aspects of algorithms and data structures. Known for exceptional problem-solving abilities and excellent communication skills, with a history of tackling complex challenges and delivering impactful results. 
+        Eager to continually learn and grow within the tech landscape, characterized by a razor-sharp analytical mindset and a collaborative spirit.
+    </p>
+</div>
+>
 
 <!-- <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> -->
 
