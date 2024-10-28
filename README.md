@@ -1,6 +1,7 @@
 <!-- ![logo](https://github.com/Mukhammadkodir27/Mukhammadkodir27/blob/main/Capture.PNG) -->
 <h1 align="center">Hi 👋, I'm Mukhammadkodir Abdusalomov</h1>
 <h3 align="center">Software Engineer & Data Scientist</h3>
+<h5 align="left"> Studying at University of Warsaw, Data Driven</h5>
 
 <!-- <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> -->
 
