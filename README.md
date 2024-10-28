@@ -19,24 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/mukhammadkodir-abdusalomov" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg" alt="HackerRank" height="30" width="40" />
-    </a>
-    <a href="https://daily.dev/" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/dailydev/dailydev-icon.svg" alt="Daily.dev" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Stack Overflow" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
-    </a>
-    <a href="https://www.w3schools.com/" target="blank">
-        <img align="center" src="https://www.w3schools.com/images/w3schools_logo_436_2.png" alt="W3Schools" height="30" width="40" />
-    </a>
+<a href="https://linkedin.com/in/mukhammadkodir-abdusalomov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukhammadkodir-abdusalomov" height="30" width="40" /></a>
 </p>
 
 
