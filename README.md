@@ -81,7 +81,6 @@
   </a>  
 </p>
 
-
 <!-- Top Languages Card -->
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammadkodir27&show_icons=true&locale=en&layout=compact" alt="mukhammadkodir27's Top Languages" />
@@ -98,10 +97,12 @@
 </p>
 
 
-## 📈 GitHub Activity Graph
-![Mukhammadkodir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mukhammadkodir27&theme=react-dark)
+## 📊 GitHub Activity Overview
+![Mukhammadkodir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukhammadkodir27&show_icons=true&locale=en)
+![Profile Views](https://komarev.com/ghpvc/?username=mukhammadkodir27&color=green)
+## 📈 Contributions
+You can view my latest contributions and activity on my [GitHub Contributions Page](https://github.com/mukhammadkodir27?tab=overview&from=2023-10-01&to=2023-10-31).
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mukhammadkodir27)
 
 
 
