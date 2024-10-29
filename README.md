@@ -82,11 +82,21 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammadkodir27&show_icons=true&locale=en&layout=compact" alt="mukhammadkodir27" /></p>
+<!-- Top Languages Card -->
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammadkodir27&show_icons=true&locale=en&layout=compact" alt="mukhammadkodir27's Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukhammadkodir27&show_icons=true&locale=en" alt="mukhammadkodir27" /></p>
+<!-- GitHub Stats Card -->
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukhammadkodir27&show_icons=true&locale=en" alt="mukhammadkodir27's GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadkodir27&" alt="mukhammadkodir27" /></p>
+<!-- GitHub Streak Stats Card -->
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadkodir27" alt="mukhammadkodir27's GitHub Streak" />
+</p>
+
 
 
 
