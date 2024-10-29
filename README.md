@@ -101,6 +101,7 @@
 ## 📈 GitHub Activity Graph
 ![Mukhammadkodir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mukhammadkodir27&theme=react-dark)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mukhammadkodir27)
 
 
 
