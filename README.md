@@ -96,16 +96,6 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadkodir27" alt="mukhammadkodir27's GitHub Streak" />
 </p>
 
-
-## 📊 GitHub Activity Overview
-![Mukhammadkodir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukhammadkodir27&show_icons=true&locale=en)
-![Profile Views](https://komarev.com/ghpvc/?username=mukhammadkodir27&color=green)
-## 📈 Contributions
-You can view my latest contributions and activity on my [GitHub Contributions Page](https://github.com/mukhammadkodir27?tab=overview&from=2023-10-01&to=2023-10-31).
-
-
-
-
 <!-- [Mukhammadkodir_Abdusalomov_Resume.pdf](https://github.com/Mukhammadkodir27/Mukhammadkodir27/blob/main/Mukhammadkodir_Abdusalomov.pdf) -->
 
 
