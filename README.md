@@ -10,7 +10,6 @@
     <p style="text-align: left; line-height: 1.6;">
         Engaged in both academic and personal projects focused on <strong>AI</strong> and <strong>machine learning</strong>, demonstrating a solid grasp of theoretical and practical aspects of algorithms and data structures. Known for exceptional problem-solving abilities and excellent communication skills, with a history of tackling complex challenges and delivering impactful results. 
         Eager to continually learn and grow within the tech landscape, characterized by a razor-sharp analytical mindset and a collaborative spirit.
-        Lesson Learned! Thanks for your feedback! 
     </p>
 </div>
 
